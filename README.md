@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+
+- <b>Security Analysis of Split Neural Networks</b>
+  - [Split Learning](https://github.com/Anusha-Katha/Academic-Projects/blob/main/Split_Learning.pdf)
 - <b>Self-Supervised Learning</b>
   - [Visual Representation Learning](https://github.com/Anusha-Katha/Anusha-Katha/assets/123344983/bd7d1799-0e4f-4004-a80b-267df7d05262)
 - <b>Communicating Robot Intentions for Human Comfort</b>

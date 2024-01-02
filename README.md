@@ -13,7 +13,7 @@
 - <b>Mini Projects</b>
   - [IoT](https://github.com/Anusha-Katha/Academic-Projects/tree/main/IoT-projects)
   
-<h2>📺 Research Papers</h2>
+<h2>🔎 Research Papers</h2>
 
 - <b>Artificial Intelligence-Based Private Protection</b>
   - [AI for privacy](https://github.com/Anusha-Katha/Research_papers/blob/main/Artificial%20Intelligence%20based%20private%20protection)

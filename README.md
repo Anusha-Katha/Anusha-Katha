@@ -1,8 +1,11 @@
-<h1>Hi, I'm Anusha! <br/><a href="https://github.com/Anusha-Katha">Software Developer</a>, <a href="https://www.linkedin.com/in/anusha-katha-843605171/">Machine Learning Engineer</a>
+<h1>Hi, I'm Anusha! <br/><a href="https://github.com/Anusha-Katha">Data Scientist</a>, <a href="https://www.linkedin.com/in/anusha-katha-843605171/">Machine Learning Engineer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
-
+- <b>Sentiment Analysis on Twitter Data</b>
+  - [Sentiment Analysis](https://github.com/Anusha-Katha/Academic-Projects/blob/main/sentiment_analysis.ipynb)
+- <b>House Price Prediction</b>
+  - [House Price Prediction](https://github.com/Anusha-Katha/Academic-Projects/blob/main/House_price_prediction.ipynb)
 - <b>Security Analysis of Split Neural Networks</b>
   - [Split Learning](https://github.com/Anusha-Katha/Academic-Projects/blob/main/Split_Learning.pdf)
 - <b>Self-Supervised Learning</b>
